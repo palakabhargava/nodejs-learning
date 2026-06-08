@@ -16,12 +16,19 @@ A collection of Node.js practice programs covering core concepts such as modules
 ## Folder Structure
 
 ├── files
+
 ├── callback.js
+
 ├── async.js
+
 ├── error.js
+
 ├── env.js
+
 ├── input.js
+
 ├── output.js
+
 └── index.js
 
 ## Learning Objectives
